@@ -7,7 +7,7 @@ Elevate Resorts, a prominent global hospitality brand known for its diverse rang
 
 - **Booking and cancellation Trends.**
 
-- Total bookings, total cancellations, total real revenue, total revenue loss by booking cancelation.
+- Total bookings, total cancellations, total real revenue, total revenue loss by cancelled bookings.
 
 
 ![Image](https://github.com/users/priteshsisale/projects/2/assets/26441919/ab5f0292-8d3a-43b2-afd3-9ece2a556ea0)

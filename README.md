@@ -58,3 +58,4 @@ Elevate Resorts, a prominent global hospitality brand known for its diverse rang
 ![Image](https://github.com/users/priteshsisale/projects/2/assets/26441919/e256281d-9849-47d1-bb07-7fa7f14af7aa)
 ![Image](https://github.com/users/priteshsisale/projects/2/assets/26441919/4e9d9591-182c-48e8-93b8-d60fe7eaaa70)
 ![Image](https://github.com/users/priteshsisale/projects/2/assets/26441919/0cd5a745-e67c-4cd9-aa49-42d40a724183)
+![image](https://github.com/priteshsisale/Resort-Booking-Analysis---Power-BI/assets/26441919/a3249a53-6cbd-4a57-9a0d-5ff3ae8e04bb)

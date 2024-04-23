@@ -52,6 +52,64 @@ Elevate Resorts, a prominent global hospitality brand known for its diverse rang
 
 ![Image](https://github.com/users/priteshsisale/projects/2/assets/26441919/a236cfe5-f083-4111-ba51-b17122b4f53b)
 
+
+**Key Findings Based on Psychographic Segmentation:**
+
+**Demographics and Stay Preferences:**
+1. **Adults Accompanied by Children:** 
+   - 93.17% of adults do not travel with children.
+
+**Market Segment Insights:**
+2. **Recurring Guests:** 
+   - The corporate market segment accounts for the highest number of repeat guests, followed by direct bookings and online travel agencies (OTAs).
+
+**Booking and Revenue Analysis:**
+3. **Price Range Insights:** 
+   - Over 50K bookings have an average spending of more than 150+ per booking.
+   
+4. **Hotel Type Analysis:**
+   - City hotels have a higher volume of bookings compared to resort hotels.
+   
+5. **Parking Requirements:**
+   - Resort hotels typically require more car parking spaces compared to city hotels.
+   
+6. **Seasonal Booking Trends:**
+   - City hotels experience a surge in bookings from May to October, whereas resort hotels maintain consistent booking levels throughout the year.
+
+7. **Revenue Patterns:**
+   - Revenue generated on weekdays surpasses that of weekends.
+
+**Guest Meal Preferences and Revenue Impact:**
+8. **Short Stay Preferences (1-5 days):** 
+   - The majority of guests who stay for 1 to 5 days prefer the Bed and Breakfast (BB) meal type.
+   
+9. **Extended Stay Preferences (5+ days):** 
+   - Guests staying for 5 or more days predominantly opt for either BB or Half Board (HB) meal plans.
+   
+10. **Revenue by Meal Type:**
+   - The Bed and Breakfast (BB) meal type generates the highest revenue compared to other meal options.
+
+**Meal Type Breakdown:**
+
+- **BB (Bed and Breakfast):** 
+  - Guests receive their morning meals provided by the hotel.
+
+- **HB (Half Board):** 
+  - Includes accommodation, breakfast, and one additional main meal, typically dinner.
+
+- **FB (Full Board):** 
+  - Encompasses accommodation, breakfast, lunch, and dinner.
+
+- **SC (Self-Catering):** 
+  - Accommodation without any meal provisions. Guests have access to kitchen or cooking facilities.
+
+**Additional Insights:**
+- Corporate travelers might be preferring City hotels due to proximity to business districts.
+- The consistent revenue of Resort hotels throughout the year suggests potential for marketing off-season packages or special offers.
+- The high preference for BB and HB meal types indicates guests value convenience and inclusive meal options.
+
+I hope this added insights provide a clearer and more organized understanding of the data analysis findings.
+
 ### Final dashboard look
 
 
